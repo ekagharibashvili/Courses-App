@@ -1,0 +1,19 @@
+.courses {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header2 {
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(214, 218, 218);
+    padding: 1rem;
+}
+.header2 Button {
+    margin-right: 1rem;
+    width: 9rem;
+}
+
+.header2 SearchBar {
+    margin-left: 1 rem;
+}
