@@ -1,0 +1,32 @@
+.courseCard {
+  display: flex;
+  background-color: rgb(247, 169, 106);
+  display: flex;
+  width: 99.9%;
+  border: 2px solid rgb(5, 23, 17);
+}
+
+h1{
+    margin-left: 2rem;
+}
+
+p {
+  width: 40rem;
+  margin-left: 2rem;
+}
+
+.cardEnd div {
+    display: flex;
+    align-items: center;
+    width: 28rem;
+    margin-bottom: -1rem;
+}
+
+.cardEnd div b {
+    margin-left: 2rem;
+}
+
+Button {
+    width: 7rem;
+    margin-left: 2rem;
+}
